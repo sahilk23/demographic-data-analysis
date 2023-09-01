@@ -1,4 +1,4 @@
-# **📊Demographic Data Analyzer**
+# **📊Demographic Data Analysis**
 
 📄 **Description:**
 This project analyzes demographic data using the Pandas library and visualizations are represented in the form of bar and pie chart using Matplotlib. 
