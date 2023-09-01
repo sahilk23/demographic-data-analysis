@@ -41,9 +41,7 @@ Representation using Bar Graph :
 
 ⏳ **Percentage of people who work the mininmum number of hour per week and have a salary of more than 50K** :- 0.006 %
 
-📊 **The most popular occupation in Indiain which people are making more than**
-
-**50K :-** Prof-specialty
+📊 **The most popular occupation in India in which people are making more than 50K :-** Prof-specialty
 
 (Representation using Bar Graph) :
 
