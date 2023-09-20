@@ -51,6 +51,6 @@ Representation using Bar Graph :
 
 💰Country that has the highest percentage of people that earns \>50K is **United-States.** Percentage is **91.455%** (for only \>50K salary) and **22.023%** (for both \>50k and \<=50K combined).
 
-## **📑Data Source :**
+## **Data Source :**
 
 Dua, D. and Graff, C. (2019). UCI - Machine Learning Repository.
