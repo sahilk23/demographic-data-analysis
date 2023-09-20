@@ -1,11 +1,13 @@
-# **📊Demographic Data Analysis**
+# **Demographic Data Analysis**
 
-📄 **Description:**
-This project analyzes demographic data using the Pandas library and visualizations are represented in the form of bar and pie chart using Matplotlib. 
-The dataset used is extracted from 1994 census (source of the dataset is given below). 
-The dataset contains information on various demographic factors such as age, education, salary, country, occupation, etc.
+## **Description:**
 
-## **📈Key insights after analyzing the dataset:**
+In this project a demographic data is analysed. The dataset contains information on various demographic factors such as age, education, salary, country, occupation, etc.
+
+The data is sorted using Pandas library and Matplotlib is used to represent visualizations in the form of pie and bar chart.
+After analysis of the dataset some key insights were found which are listed down.
+
+## **Key insights after analyzing the dataset:**
 
 👥**People of each race represented in the Dataset** :-
 
